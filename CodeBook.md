@@ -60,108 +60,108 @@ TimeBodyAccelerationJerkMeanZ 8 <br \>
 BodyAcceleration Jerk Mean in Time Domain Z-AXIS (7 decimal Places) <br \>
 -1..1
 
- TimeBodyAccelerationJerkStandardDeviationX 8 <br \>
- BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+TimeBodyAccelerationJerkStandardDeviationX 8 <br \>
+ BodyAcceleration Jerk Standard Deviation in Time Domain X-AXIS (7 decimal Places) <br \>
 -1..1 
 
 TimeBodyAccelerationJerkStandardDeviationY 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyAcceleration Jerk Standard Deviation in Time Domain Y-AXIS (7 decimal Places) <br \>
 -1..1 
 
 TimeBodyAccelerationJerkStandardDeviationZ 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyAcceleration Jerk Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
 -1..1
 
 TimeBodyGyroscopeMeanX 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Mean in Time Domain X-AXIS (7 decimal Places) <br \>
 -1..1  
 
 TimeBodyGyroscopeMeanY  8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Mean in Time Domain Y-AXIS (7 decimal Places) <br \>
 -1..1
 
 TimeBodyGyroscopeMeanZ  8<br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Mean in Time Domain Z-AXIS (7 decimal Places) <br \>
 -1..1 
 
 TimeBodyGyroscopeStandardDeviationX  8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Standard Deviation in Time Domain X-AXIS (7 decimal Places) <br \>
 -1..1 
 
 TimeBodyGyroscopeStandardDeviationY 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Standard Deviation in Time Domain Y-AXIS (7 decimal Places) <br \>
 -1..1 
 
 TimeBodyGyroscopeStandardDeviationZ 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
 -1..1  
 
 TimeBodyGyroscopeJerkMeanX 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Jerk Mean in Time Domain X-AXIS (7 decimal Places) <br \>
 -1..1
 
 TimeBodyGyroscopeJerkMeanY 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Jerk Mean in Time Domain Y-AXIS (7 decimal Places) <br \>
 -1..1 
 
 TimeBodyGyroscopeJerkMeanZ 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Jerk Mean in Time Domain Z-AXIS (7 decimal Places) <br \>
 -1..1  
 
 TimeBodyGyroscopeJerkStandardDeviationX 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Jerk Standard Deviation in Time Domain X-AXIS (7 decimal Places) <br \>
 -1..1
 
 TimeBodyGyroscopeJerkStandardDeviationY 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Jerk Standard Deviation in Time Domain Y-AXIS (7 decimal Places) <br \>
 -1..1
 
 TimeBodyGyroscopeJerkStandardDeviationZ 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Lerk Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
 -1..1   
 
 TimeBodyAccelerationMagnitudeMean 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyAcceleration Magnitude of Mean in Time Domain  (7 decimal Places) <br \>
 -1..1
 
 TimeBodyAccelerationMagnitudeStandardDeviation 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyAcceleration Magnitude of Standard Deviation in Time Domain  (7 decimal Places) <br \>
 -1..1
 
 TimeGravityAccelerationMagnitudeMean 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Gravity Acceleration Magnitude Mean in Time Domain  (7 decimal Places) <br \>
 -1..1
 
 TimeGravityAccelerationMagnitudeStandardDeviation 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Gravity Acceleration Magnitude Standard Deviation in Time Domain (7 decimal Places) <br \>
 -1..1
 
 TimeBodyAccelerationJerkMagnitudeMean 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyAcceleration Jerk Magnitude of Mean Time Domain (7 decimal Places) <br \>
 -1..1 
 
 TimeBodyAccelerationJerkMagnitudeStandardDeviation 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyAcceleration Jerk Magnitude Standard Deviation in Time Domain  (7 decimal Places) <br \>
 -1..1 
 
 TimeBodyGyroscopeMagnitudeMean 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+BodyGyroscope Magnitude of Mean in Time Domain (7 decimal Places) <br \>
 -1..1
 
 TimeBodyGyroscopeMagnitudeStandardDeviation 8 <br \>
+BodyGyroscope Magnitude of  Standard Deviation in Time Domain (7 decimal Places) <br \>
+-1..1
+
+TimeBodyGyroscopeJerkMagnitudeMean 8 <br \>
+BodyGyroscope Jerk Magnitude of Mean in Time Domain(7 decimal Places) <br \>
+-1..1
+
+TimeBodyGyroscopeJerkMagnitudeStandardDeviation 8 <br \>
+BodyGyroscope Jerk Magnitude of Standard Deviation in Time Domain (7 decimal Places) <br \>
+-1..1
+
+FourierBodyAccelerationMeanX 8 <br \>
 BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
--1..1
-
- TimeBodyGyroscopeJerkMagnitudeMean 8 <br \>
- BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
--1..1
-
- TimeBodyGyroscopeJerkMagnitudeStandardDeviation 8 <br \>
- BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
--1..1
-
- FourierBodyAccelerationMeanX 8 <br \>
- BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
 -1..1
 
 FourierBodyAccelerationMeanY 8 <br \>

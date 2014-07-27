@@ -1,22 +1,22 @@
 #CodeBook
 
  
-TimeBodyAccelerationelerationMeanX  8 <br \>
+TimeBodyAccelerationMeanX  8 <br \>
 -1..1
 
-TimeBodyAccelerationelerationMeanY  8 <br \>
+TimeBodyAccelerationMeanY  8 <br \>
 -1..1
 
-TimeBodyAccelerationelerationMeanZ  8 <br \>
+TimeBodyAccelerationMeanZ  8 <br \>
 -1..1
 
-TimeBodyAccelerationelerationStandardDeviationX  8 <br \>
+TimeBodyAccelerationStandardDeviationX  8 <br \>
 -1..1
 
-TimeBodyAccelerationelerationStandardDeviationY 8 <br \>
+TimeBodyAccelerationStandardDeviationY 8 <br \>
 -1..1
 
-TimeBodyAccelerationelerationStandardDeviationZ  8 <br \>
+TimeBodyAccelerationStandardDeviationZ  8 <br \>
 -1..1
 
 TimeGravityAccelerationMeanX 8 <br \>
@@ -37,22 +37,22 @@ TimeGravityAccelerationStandardDeviationY 8 <br \>
 TimeGravityAccelerationStandardDeviationZ 8 <br \>
 -1..1 
 
-TimeBodyAccelerationelerationJerkMeanX 8 <br \>
+TimeBodyAccelerationJerkMeanX 8 <br \>
 -1..1
 
-TimeBodyAccelerationelerationJerkMeanY  8 <br \>
+TimeBodyAccelerationJerkMeanY  8 <br \>
 -1..1
 
-TimeBodyAccelerationelerationJerkMeanZ 8 <br \>
+TimeBodyAccelerationJerkMeanZ 8 <br \>
+-1..1
+
+ TimeBodyAccelerationJerkStandardDeviationX 8 <br \>
 -1..1 
 
- TimeBodyAccelerationelerationJerkStandardDeviationX 8 <br \>
+TimeBodyAccelerationJerkStandardDeviationY 8 <br \>
 -1..1 
 
-TimeBodyAccelerationelerationJerkStandardDeviationY 8 <br \>
--1..1 
-
-TimeBodyAccelerationelerationJerkStandardDeviationZ 8 <br \>
+TimeBodyAccelerationJerkStandardDeviationZ 8 <br \>
 -1..1
 
 TimeBodyGyroscopeMeanX 8 <br \>
@@ -91,7 +91,7 @@ TimeBodyGyroscopeJerkStandardDeviationY 8 <br \>
 TimeBodyGyroscopeJerkStandardDeviationZ 8 <br \>
 -1..1   
 
-TimeBodyAccelerationelerationMagnitudeMean 8 <br \>
+TimeBodyAccelerationMagnitudeMean 8 <br \>
 -1..1
 
 TimeBodyAccelerationMagnitudeStandardDeviation 8 <br \>

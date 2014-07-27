@@ -2,21 +2,27 @@
 
  
 TimeBodyAccelerationMeanX  8 <br \>
--1..1
+ BodyAcceleration Mean in Time Domain X-AXIS (7 decimal Places) <br \>
+ -1..1
 
 TimeBodyAccelerationMeanY  8 <br \>
+BodyAcceleration Mean in Time Domain Y-AXIS (7 decimal Places) <br \> 
 -1..1
 
 TimeBodyAccelerationMeanZ  8 <br \>
+BodyAcceleration Mean in Time Domain Z-AXIS (7 decimal Places) <br \>
 -1..1
 
 TimeBodyAccelerationStandardDeviationX  8 <br \>
+BodyAcceleration Standard Deviation in Time Domain X-AXIS (7 decimal Places) <br \>
 -1..1
 
 TimeBodyAccelerationStandardDeviationY 8 <br \>
+BodyAcceleration Standard Deviation in Time Domain Y-AXIS (7 decimal Places) <br \>
 -1..1
 
 TimeBodyAccelerationStandardDeviationZ  8 <br \>
+BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
 -1..1
 
 TimeGravityAccelerationMeanX 8 <br \>

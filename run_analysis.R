@@ -93,3 +93,6 @@ library('plyr')
 ##average of each variable for each activity and each subject
 ##Grouping to get tidy dataset
 tidyData <- ddply(selectedcol, .(activityLabel,subjectLabel), numcolwise(mean))
+
+##Writing Data.frame to table
+write.table(tidyData,"tidy.txt")

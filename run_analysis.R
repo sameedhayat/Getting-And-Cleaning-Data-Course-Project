@@ -62,7 +62,6 @@ for(i in seq_along(c)){
 names(selectedcol) <-gsub("BodyBody","Body",names(selectedcol))
 names(selectedcol) <-gsub("BodyAcc","BodyAcceleration",names(selectedcol))
 names(selectedcol) <- gsub("mean\\(\\)","Mean",names(selectedcol))
-names(selectedcol) <- gsub("BodyAcc","BodyAcceleration",names(selectedcol))
 names(selectedcol) <- gsub("GravityAcc","GravityAcceleration",names(selectedcol))
 names(selectedcol) <- gsub("BodyGyro","BodyGyroscope",names(selectedcol))
 names(selectedcol) <- gsub("^t","Time",names(selectedcol))

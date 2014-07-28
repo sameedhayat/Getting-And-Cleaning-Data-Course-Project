@@ -161,107 +161,107 @@ BodyGyroscope Jerk Magnitude of Standard Deviation in Time Domain (7 decimal Pla
 -1..1
 
 FourierBodyAccelerationMeanX 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Mean X-AXIS (7 decimal Places) <br \>
 -1..1
 
 FourierBodyAccelerationMeanY 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Mean  Y-AXIS (7 decimal Places) <br \>
 -1..1
 
 FourierBodyAccelerationMeanZ 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Mean  Z-AXIS (7 decimal Places) <br \>
 -1..1
 
- FourierBodyAccelerationStandardDeviationX 8 <br \>
- BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+FourierBodyAccelerationStandardDeviationX 8 <br \>
+Fourier Transform of BodyAcceleration Standard Deviation  X-AXIS (7 decimal Places) <br \>
 -1..1 
 
- FourierBodyAcceleratioStandardDeviationY 8 <br \>
- BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+FourierBodyAcceleratioStandardDeviationY 8 <br \>
+Fourier Transform of BodyAcceleration Standard Deviation  Y-AXIS (7 decimal Places) <br \>
 -1..1 
 
 FourierBodyAccelerationStandardDeviationZ 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Standard Deviation Z-AXIS (7 decimal Places) <br \>
 -1..1  
 
 FourierBodyAccelerationJerkMeanX 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Jerk Mean  X-AXIS (7 decimal Places) <br \>
 -1..
 
 FourierBodyAccelerationJerkMeanY 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Jerk Mean  Y-AXIS (7 decimal Places) <br \>
 -1..1
 
 FourierBodyAccelerationJerkMeanZ 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Jerk Mean Z-AXIS (7 decimal Places) <br \>
 -1..1  
 
 FourierBodyAccelerationJerkStandardDeviationX 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Jerk Standard Deviation  X-AXIS (7 decimal Places) <br \>
 -1..1 
 
 FourierBodyAccelerationJerkStandardDeviationY 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Jerk Standard Deviation Y-AXIS (7 decimal Places) <br \>
 -1..1 
 
 FourierBodyAccelerationJerkStandardDeviationZ 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Jerk Standard Deviation  Z-AXIS (7 decimal Places) <br \>
 -1..1
 
 FourierBodyGyroscopeMeanX 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Mean  X-AXIS (7 decimal Places) <br \>
 -1..1
 
 FourierBodyGyroscopeMeanY 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Mean  Y-AXIS (7 decimal Places) <br \>
 -1..1 
 
 FourierBodyGyroscopeMeanZ 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Mean  Z-AXIS (7 decimal Places) <br \>
 -1..1  
 
 FourierBodyGyroscopeStandardDeviationX 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Standard Deviation X-AXIS (7 decimal Places) <br \>
 -1..1  
 
 FourierBodyGyroscopeStandardDeviationY 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Standard Deviation  Y-AXIS (7 decimal Places) <br \>
 -1..1
 
 FourierBodyGyroscopeStandardDeviationZ  8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Standard Deviation Z-AXIS (7 decimal Places) <br \>
 -1..1 
 
 FourierBodyAccelerationMagnitudeMean 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Magnitude of Mean (7 decimal Places) <br \>
 -1..1 
 
 FourierBodyAccelerationMagnitudeStandardDeviation 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Magnitude of Standard Deviation  (7 decimal Places) <br \>
 -1..1  
 
 FourierBodyAccelerationJerkMagnitudeMean 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Magnitude of Standard Deviation (7 decimal Places) <br \>
 -1..1
 
 FourierBodyAccelerationJerkMagnitudeStandardDeviation 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyAcceleration Jerk Magnitude of Standard Deviation (7 decimal Places) <br \>
 -1..1
 
 FourierBodyGyroscopeMagnitudeMean 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Magnitude of Mean (7 decimal Places) <br \>
 -1..1
 
 FourierBodyGyroscopeMagnitudeStandardDeviation  8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Magnitude of Standard Deviation (7 decimal Places) <br \>
 -1..1
 
 FourierBodyGyroscopeJerkMagnitudeMean 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Magnitude of Mean (7 decimal Places) <br \>
 -1..1
 
 FourierBodyGyroscopeJerkMagnitudeStandardDeviation 8 <br \>
-BodyAcceleration Standard Deviation in Time Domain Z-AXIS (7 decimal Places) <br \>
+Fourier Transform of BodyGyroscope Jerk Magnitude of Standard Deviation (7 decimal Places) <br \>
 -1..1
 
 activityLabel  <br \>

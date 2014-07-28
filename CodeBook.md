@@ -265,7 +265,15 @@ Fourier Transform of BodyGyroscope Jerk Magnitude of Standard Deviation (7 decim
 -1..1
 
 activityLabel  <br \>
+Label for activities out of 6 activities<br \>
+Walking .Walking <br \>
+WalkingUpstairs .Walking Upstairs <br \>
+WalkingDownstairs .Walking Downstairs <br \>
+Sitting .Sitting <br \>
+Standing .Standing <br \>
+Laying .Laying<br \>
 
 
 subjectLabel 2 <br \>
+Label for Subject out of 30 subjects<br \>
 1..30

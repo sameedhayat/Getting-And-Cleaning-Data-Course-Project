@@ -51,7 +51,22 @@ cappend<- append(cappend,563)
 ##Selecting the columns having mean() or std() and also activityLabel and subjectLabel columns
 selectedcol <- mer[,cappend]
 
+##Giving names to activity label and subject label columns
+names(selectedcol)[67] <-paste("activityLabel")
+names(selectedcol)[68] <-paste("subjectLabel")
+
 ##Step 3:Uses descriptive activity names to name the activities in the data set
+##Giving descriptive activity names for activityLabel
+for(i in seq_along(selectedcol$activityLabel)){
+  if(selectedcol$activityLabel[i]==1){selectedcol$activityLabel[i]<-"Walking"}
+  if(selectedcol$activityLabel[i]==2){selectedcol$activityLabel[i]<-"WalkingUpstairs"}
+  if(selectedcol$activityLabel[i]==3){selectedcol$activityLabel[i]<-"WalkingDownstairs"}
+  if(selectedcol$activityLabel[i]==4){selectedcol$activityLabel[i]<-"Sitting"}
+  if(selectedcol$activityLabel[i]==5){selectedcol$activityLabel[i]<- "Standing"}
+  if(selectedcol$activityLabel[i]==6){selectedcol$activityLabel[i]<-"Laying"}
+}
+
+##Step 4 :Appropriately labels the data set with descriptive variable names
 ##Giving column names using feature data
 for(i in seq_along(c)){
   names(selectedcol)[i] <- paste(name$V2[i])
@@ -69,21 +84,6 @@ names(selectedcol) <- gsub("^f","Fourier",names(selectedcol))
 names(selectedcol) <- gsub("std\\(\\)","StandardDeviation",names(selectedcol))
 names(selectedcol) <- gsub("Mag","Magnitude",names(selectedcol))
 names(selectedcol) <- gsub("-","",names(selectedcol))
-
-##Giving names to activity label and subject label columns
-names(selectedcol)[67] <-paste("activityLabel")
-names(selectedcol)[68] <-paste("subjectLabel")
-
-##Step 4 :Appropriately labels the data set with descriptive variable names
-##Giving descriptive variable names for activityLabel
-for(i in seq_along(selectedcol$activityLabel)){
-  if(selectedcol$activityLabel[i]==1){selectedcol$activityLabel[i]<-"Walking"}
-  if(selectedcol$activityLabel[i]==2){selectedcol$activityLabel[i]<-"WalkingUpstairs"}
-  if(selectedcol$activityLabel[i]==3){selectedcol$activityLabel[i]<-"WalkingDownstairs"}
-  if(selectedcol$activityLabel[i]==4){selectedcol$activityLabel[i]<-"Sitting"}
-  if(selectedcol$activityLabel[i]==5){selectedcol$activityLabel[i]<- "Standing"}
-  if(selectedcol$activityLabel[i]==6){selectedcol$activityLabel[i]<-"Laying"}
-}
 
 ##Using plyr package
 library('plyr')

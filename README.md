@@ -64,7 +64,7 @@ train <- cbind(d1,d2)
 train <- cbind(train,d3)
 ```
 
-## Step 1. Merges the training and the test sets to create one data set.
+## Step 1 : Merges the training and the test sets to create one data set.
 ### Merging test and train data by row
 ```r
 mer <- rbind(test,train)
@@ -79,7 +79,7 @@ setwd("..")
 ```r
 feature <- read.table("features.txt",header=FALSE)
 ```
-## Step 2:Extracts only the measurements on the mean and standard deviation for each measurement
+## Step 2 : Extracts only the measurements on the mean and standard deviation for each measurement
 
 ### Using grep and regular expression to look for mean() and std()
 
@@ -108,7 +108,7 @@ names(selectedcol)[68] <-paste("subjectLabel")
 ```
 
 
-## Step 3:Uses descriptive activity names to name the activities in the data set
+## Step 3 : Uses descriptive activity names to name the activities in the data set
 ### Giving descriptive activity names for activityLabel
 ```r
 for(i in seq_along(selectedcol$activityLabel)){
@@ -120,7 +120,7 @@ for(i in seq_along(selectedcol$activityLabel)){
   if(selectedcol$activityLabel[i]==6){selectedcol$activityLabel[i]<-"Laying"}
 }
 ```
-## Step 4 :Appropriately labels the data set with descriptive variable names
+## Step 4 : Appropriately labels the data set with descriptive variable names
 ### Giving column names using feature data
 ```r
 for(i in seq_along(c)){
@@ -146,7 +146,7 @@ names(selectedcol) <- gsub("-","",names(selectedcol))
 ```r
 library('plyr')
 ```
-## Step # 5 :Creates a second, independent tidy data set with the 
+## Step 5 : Creates a second, independent tidy data set with the 
 ### average of each variable for each activity and each subject
 ### Grouping to get tidy dataset
 ```r
